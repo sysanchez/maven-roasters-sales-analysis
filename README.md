@@ -1,4 +1,12 @@
 # Maven Roasters Sales Analysis (Jan 2023 - June 2023)
+
+## Key Sections
+
+  - [Background and Overview](Background-and-Overview)
+  - [Data Structure Overview](Data-Structure-Overview)
+  - [Executive Summary](Executive-Summary)
+  - [Deep-dive Insights](Deep-dive-Insights)
+  - [Recommendations](Recommendations)
 ## Background and Overview: 
 Maven Roasters is a coffee shop chain with three locations in New York City: Astoria, Hell’s Kitchen, and Lower Manhattan.
 
