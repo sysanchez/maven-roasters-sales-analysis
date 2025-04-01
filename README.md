@@ -8,10 +8,11 @@
   - [Deep-dive Insights](#deep-dive-insights)
   - [Recommendations](#recommendations)
   - [Limitations](limitations)
+    
 ## Background and Overview: 
 Maven Roasters is a coffee shop chain with three locations in New York City: Astoria, Hell’s Kitchen, and Lower Manhattan.
 
-This analysis was made to help identify bestselling products, peak transaction times, and revenue drivers across Maven Roasters’ three NYC locations to help the  owner understand purchase behavior, identify patterns, trends and opportunities for the business and streamline operations.
+This analysis aims to identify revenue trends, bestselling products, peak transaction times, and key revenue drivers across Maven Roasters’ three NYC locations. The goal is to provide insights that help the business owner better understand customer purchasing behavior, recognize trends and opportunities, and optimize operations to maximize sales and profitability.
 
 Insights and recommendations focus on three key areas:
 - **Sales Trends Over Time** – Understanding revenue patterns and growth opportunities.
