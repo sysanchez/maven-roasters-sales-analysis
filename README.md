@@ -136,17 +136,23 @@ Barista Espresso leads in both transactions (5,320) and revenue ($31,051), makin
 
 Based on the key insights identified, the following recommendations are proposed.
 
-***Boost Sales Consistency with Seasonal Strategies***
+***Boost total revenue by addressing the February dip & maximizing growth from April to June (All Stores)***
 
-To keep sales growing and avoid seasonal dips like February, Maven Roasters could run limited-time promotions or special events to attract more customers. Adjusting marketing strategies based on each location’s traffic patterns might also help smooth out slower months.
+- To minimize the February slowdown across all stores, launch a mid-winter promotion such as "Warm Up February" discounts on seasonal drinks and pastries, introduce a limited-time winter menu featuring specialty hot chocolates and comfort pastries, and offer a loyalty incentive like bonus points for February purchases to encourage repeat visits.
+- To capitalize on Spring Growth from April to June across all stores, introduce a Spring/Summer drink lineup featuring iced coffee specials and refreshing tea blends and promote bundle deals such as the “Morning Boost” combo of coffee and pastry at a discount.
 
-***Maximize Weekday Sales and Boost Weekend Traffic*** 
+***Maximize Weekday Sales and Boost Weekend Traffic (All Stores)***
 
-To make the most of peak weekday traffic, Maven Roasters could offer targeted promotions or loyalty incentives on these high-traffic days to boost sales further. Additionally, exploring ways to drive more weekend transactions—such as special weekend-exclusive menu items or discounts—could help balance sales across the week.
+- To make the most of peak weekday traffic, Maven Roasters could offer targeted promotions or loyalty incentives on these high-traffic days to boost sales further.
+- To boost weekend sales, run weekend promotions (e.g., "Buy 1, Get 1 Free" on slow-moving items like packaged chocolate), offer exclusive weekend-only drinks or bundles to attract customers or partner with local businesses for weekend collaborations (e.g., pastry pairings from a local bakery).
 
-***Optimize Store Hours and Promotions for Peak and Slow Periods***
+***Optimize Store Hours and Promotions for Peak and Slow Periods (Store-specific adjustments)***
 
-To maximize sales, Maven Roasters could introduce morning promotions or loyalty incentives to encourage repeat visits during peak hours. Since transactions drop off in the afternoon and evening, offering targeted discounts or new product options later in the day may help attract more customers during slower periods. For the hours with minimal to no activity, adjusting store hours to better align with customer demand or exploring alternative revenue streams, such as online orders or special evening events, could help optimize operations.
+- Astoria: Focus on improving efficiency during the busy 9-10 AM window with faster checkout and prioritizing mobile orders. Encourage midday traffic with "Afternoon Specials" discounts between 1-3 PM and interactive events or product demos around 2 PM. Engage the local community by offering exclusive deals for students and nearby businesses during slower afternoon hours.
+
+- Hell's Kitchen: Optimize morning operations with faster checkout and mobile order priority from 9-10 AM. Draw in evening customers with "8 PM Happy Hour" discounts or "Last-Minute Shopper" deals, and host engaging pop-up events or live music to create a lively atmosphere. Collaborate with nearby dining spots to offer paired discounts for customers heading home from work or dinner.
+
+- Lower Manhattan: Maximize commuter sales with extended morning promotions from 6-10 AM. Attract post-work shoppers with "Twilight Discounts" from 5-7 PM, and address low late-evening sales by considering earlier closing hours. Strengthen partnerships with local businesses for joint promotions, such as discounts on coffee or snacks during quieter hours.
 
 ***Focus on Bestsellers and Improve Low-Demand Items***
 
@@ -154,12 +160,16 @@ Since coffee, tea, and bakery items drive the most sales across all locations, M
 
 ***Drive Revenue with Top-Performing Products  and Manage Low-Demand Items***
 
-Maven Roasters should continue promoting high-performing drinks like Barista Espresso and Brewed Chai Tea, as they generate strong revenue despite varying transaction counts. To increase sales of lower-demand items like syrups, the company could bundle them with popular drinks or offer limited-time flavors to encourage add-on purchases. Additionally, highlighting handcrafted beverages in marketing efforts can reinforce customer preference and further boost sales.
+- Astoria: Build on Brewed Chai Tea's strong performance by promoting it with loyalty perks such as "Buy 5, Get 1 Free" to keep customers engaged. Encourage sales for Barista Espresso, which has lower volume but high revenue, by emphasizing its high-quality beans or introducing limited-edition variations. Increase demand for syrups by bundling sugar-free and regular options with popular drinks or offering free flavor shots for a limited time.
+
+- Hell’s Kitchen: Make the most of Brewed Chai Tea's success by offering seasonal variations like chai latte specials to keep customers excited. Find ways to boost revenue for Gourmet Brewed Coffee by testing premium pricing or promoting larger sizes. Help customers personalize their drinks by highlighting syrups as customization options and featuring them on digital menu boards or apps.
+
+- Lower Manhattan: Take advantage of Barista Espresso's popularity by introducing loyalty-based incentives, specialty versions, or subscription-based coffee programs. Focus on increasing Brewed Chai Tea sales by marketing it as a specialty item and offering premium add-ons like oat milk or honey drizzle. Encourage more purchases of Brewed Green Tea and syrups with wellness-focused promotions like "Antioxidant Boost" bundles or limited-time flavors.
 
 ## Limitations
 
 1. Short Time Frame – This analysis covers only six months (January to June 2023), so it may not fully capture seasonal trends or long-term shifts in customer behavior. A full year of data would provide a more complete picture of patterns and opportunities.
 
-2. No Customer-Level Insights – The dataset is transaction-based, meaning it doesn’t track individual customers. Without this, it’s harder to analyze repeat purchases, customer loyalty, or personalized buying habits, which could help in shaping targeted marketing strategies.
+2. No Customer-Level Insights – The dataset is transaction-based, meaning it doesn’t track individual customers, which are typically analyzed to understand repeat purchases, customer loyalty, and personalized buying habits, all of which could help in shaping targeted marketing strategies.
 
 3. External Factors Not Considered – The analysis focuses on sales data without factoring in outside influences like local events, competitor activity, or economic trends. These factors may have played a role in sales fluctuations but aren't reflected in the dataset.
