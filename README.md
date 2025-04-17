@@ -36,7 +36,7 @@ View the data exploration and analysis report [here](https://github.com/sysanche
 
 ## Executive Summary
 
-From January to June, sales across the three Maven Roasters locations followed an upward trend, peaking in June with each store generating more than $50,000 in revenue. February saw a slight decline in all stores, possibly due to lower post-holiday consumer spending or seasonal fluctuations in customer traffic with revenue dropping to $2,209 in Astoria, $2,101 in Hell's Kitchen, and $1,223 in Lower Manhattan..
+From January to June, sales across the three Maven Roasters locations followed an upward trend, peaking in June with each store generating more than $50,000 in revenue which is double the amount generated in January. February saw a slight decline in all stores, possibly due to lower post-holiday consumer spending or seasonal fluctuations in customer traffic with revenue dropping to $2,209 in Astoria, $2,101 in Hell's Kitchen, and $1,223 in Lower Manhattan.
 
 The busiest days vary by store, but weekdays generally see the highest number of transactions. In Astoria, Thursday has the most transactions (7,427), followed closely by Monday (7,403) and Wednesday (7,370). Hell's Kitchen sees the highest transaction volumes on Friday (7,489) and Tuesday (7,572), while in Lower Manhattan, Monday is the busiest day (7,136).
 
